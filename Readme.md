@@ -70,23 +70,6 @@ Before running this project, make sure you have:
 - `npm run start` - Start production server
 - `npm run lint` - Run ESLint
 
-## Project Structure
-
-\`\`\`
-├── app/                    # Next.js App Router pages
-│   ├── chat/              # Chat functionality
-│   ├── discover/          # Business discovery
-│   ├── login/             # Authentication
-│   ├── matches/           # Business matches
-│   ├── profile/           # User profiles
-│   └── signup/            # User registration
-├── components/            # Reusable components
-│   └── ui/               # shadcn/ui components
-├── hooks/                # Custom React hooks
-├── lib/                  # Utility functions
-└── public/               # Static assets
-\`\`\`
-
 ## Key Dependencies
 
 ### Core Framework
